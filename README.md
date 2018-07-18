@@ -1,4 +1,4 @@
-![gx logo](logo.jpeg)
+# Unofficial changes, only personal integration
 
 # gx
 > The language-agnostic, universal package manager
