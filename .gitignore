@@ -6,3 +6,4 @@ gx
 tests/lib/sharness/*
 tests/bin/*
 tests/test-results/*
+vendor/

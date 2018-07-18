@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	sh "github.com/ipfs/go-ipfs-api"
 	mh "github.com/multiformats/go-multihash"
+	sh "github.com/uppercaveman/go-ipfs-api"
 	prog "github.com/whyrusleeping/progmeter"
 	. "github.com/whyrusleeping/stump"
 )

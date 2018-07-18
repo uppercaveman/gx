@@ -6,10 +6,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	sh "github.com/ipfs/go-ipfs-api"
 	homedir "github.com/mitchellh/go-homedir"
 	ma "github.com/multiformats/go-multiaddr"
 	manet "github.com/multiformats/go-multiaddr-net"
+	sh "github.com/uppercaveman/go-ipfs-api"
 	log "github.com/whyrusleeping/stump"
 )
 
